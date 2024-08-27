@@ -15,10 +15,13 @@ We will analyze the URL attached to the alert in online tools such as Virus Tota
 ![2024-08-27_14-26](https://github.com/user-attachments/assets/42deb6f6-24b3-4920-bec2-6efaf030e50d)
 
 <p><strong>2 - Domain Analysis:</strong><br>
-In this alert we have a domain, which is "mogagrocol.ru", but when analyzing it in different tools they will not report anything about whether the domain is dangerous or malicious.</p>
+In this alert we have a domain, which is "mogagrocol.ru", but when analyzing it in different tools they do not report anything about whether the domain is dangerous or malicious. Therefore we must perform a more exhaustive search for this alert.</p>
 
+<p><strong>3 - Analyze the source of the alert:</strong><br>
+We know that this alert comes from a user called "EmilyComp", with an IP assigned to her workstation "172.16.17.49", so let's start by going to the "Email Security" section and search for the name "Emily". This will return a result that we will click on. Once we click on this result, the email that Emily has received will open. Here we will find two things, a domain called "netflix-payments.com" and a URL "http://bit.ly/3ecXem52".</p>
 
-
+![2024-08-27_14-45](https://github.com/user-attachments/assets/60985a3b-8ff2-413d-bfac-37f6916092c2)
+![2024-08-27_14-51](https://github.com/user-attachments/assets/68b26068-4074-4426-8d98-6598674e5ca3)
 
 
 
