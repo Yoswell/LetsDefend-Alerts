@@ -9,8 +9,9 @@
 <h3>📂 Repository Structure</h3>
 <p>The repository is organized by alert categories and types to make it easy to navigate and find specific writeups. The structure is as follows:</p>
 |-- README.md<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- 🛡️ Difficulty Alert<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- 🔍 Investigation writeups 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- 🛡️ LetsDefend Alerts<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- 📂 Difficulty Alerts<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- 🛡️ Solution for name of the alerts
 
 <h3>📧 Contact</h3>
 <p>For any questions or suggestions, feel free to open an issue or reach out via Linkedin or Portfolio</p>
