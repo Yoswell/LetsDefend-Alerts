@@ -1,3 +1,6 @@
+
+![Banner de Linkedin Moderno para Arquitecto Azul y Blanco](https://github.com/user-attachments/assets/fe9e6b30-ca0d-43fa-8f56-c90c096fd159)
+
 <div>
   <div>
     <h3 align="left">🛡️ Let's Defend Alert Writeups Repository</h1>
