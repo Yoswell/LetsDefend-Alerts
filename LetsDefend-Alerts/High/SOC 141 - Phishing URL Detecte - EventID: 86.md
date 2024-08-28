@@ -4,7 +4,9 @@
   <div>
     <h3 align="left">🛡️ SOC141 - Phishing URL Detected</h1>
     <h3 align="left">📅 Date and Time: March 22, 2021, 09:23 PM</h2>
-    <h3 align="left" size="50">⚠️ Priority: High</h2>
+    <h3 align="left">⚠️ SEVERITY: High</h2>
+    <h3 align="left">👾 Event ID: 86</h2>
+    <h3 align="left">🎃 Type: Proxy</h2>
   </div>
 </div><br>
 
