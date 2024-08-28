@@ -7,17 +7,20 @@
 
 ![image(2)](https://github.com/user-attachments/assets/d8ab829b-33d0-40fa-924c-263d62200d6f)
 
+---
 <h3>🌐 Step 1: URL Research </h3>
 <h4>Procederemos a analizar la URL adjunta a la alerta utilizando herramientas en línea como VirusTotal. Este servicio permite escanear y evaluar URLs en busca de amenazas conocidas, consultando bases de datos de múltiples proveedores de seguridad. Al someter esta URL a análisis en VirusTotal, el resultado indica que cuatro proveedores de seguridad la han clasificado específicamente como "Phishing". Este hallazgo refuerza nuestra sospecha inicial de que la URL está asociada con actividades maliciosas diseñadas para engañar a los usuarios y obtener información confidencial. Además, este resultado subraya la necesidad de tomar medidas inmediatas para mitigar el riesgo asociado a este intento de phishing..</h4>
 
 ![image(3)](https://github.com/user-attachments/assets/7c4e44c6-7e8d-414f-aff6-3e60a38bc539)
 
+---
 <h3>🌐 Step 2: Analyze Domain</h3>
 <h4>In this alert we have a domain, which is "mogagrocol.ru", but when analyzing it in Virus Total we are not informed about whether the domain is dangerous or malicious. Therefore we must perform a more exhaustive search of this alert, let's try with the "Hybrid Analysis" tool, once the domain is inserted for analysis, a large list will be returned, in which there is a specific one that matches the URL shown in the alert. Which is point 2, where %40 corresponds to an "@". If we click on this specific result, we will be shown another list, from which the domain "mogagrocol.ru" and the IP address "91.189.114.8" stand out, classified as malicious.</h4>
 
 ![image(6)](https://github.com/user-attachments/assets/5d18ed71-6324-4e83-91d5-f410dea5dfcd)
 ![image(7)](https://github.com/user-attachments/assets/5c332a0f-2d2b-4447-8e99-e2f978bdb928)
 
+---
 <h3>📋 Conclusion</h3>
 <h4>1 - Analyze URL Address: After completing extensive research using multiple sources and analysis tools, we have concluded that both the requested URL and its associated domain are malicious.</h4>
 
