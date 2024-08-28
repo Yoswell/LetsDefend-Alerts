@@ -1,5 +1,4 @@
-
-![Banner de Linkedin Moderno para Arquitecto Azul y Blanco](https://github.com/user-attachments/assets/fe9e6b30-ca0d-43fa-8f56-c90c096fd159)
+![image(10)](https://github.com/user-attachments/assets/cac25830-e15c-4e3b-a8dd-508ff396ddbf)
 
 <div>
   <div>
