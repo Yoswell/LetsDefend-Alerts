@@ -18,7 +18,7 @@
 |-- README.md<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- 🛡️ LetsDefend Alerts<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- 📂 Difficulty Alerts<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- 🛡️ Solution for name of the alerts
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- 🛡️ Name Alerts
 
 ```📧 Contact```
 ><p>For any questions or suggestions, feel free to open an issue or reach out via Linkedin or Portfolio</p>
